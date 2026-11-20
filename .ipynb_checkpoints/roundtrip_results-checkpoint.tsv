@@ -1,0 +1,14 @@
+word	audio	granite_hypothesis	granite_recognized
+cristiano ronaldo	generated/kitten/cristiano ronaldo.wav	here is the word cristiano ronaldo the word cristiano ronaldo is often mispronounced	True
+twenty four	generated/kitten/twenty four.wav	here is the word 24 the word 24 is often mispronounced	False
+john wesley hardin	generated/kitten/john wesley hardin.wav	here is the word john wesley harden the word john wesley harden is often mispronounced	False
+suttontaylor	generated/kitten/suttontaylor.wav	here is the word santon tailor the word santon tailor is often mispronounced	False
+steve lane	generated/kitten/steve lane.wav	here is the word steve lane the word steve lane is often mispronounced	True
+groves	generated/kitten/groves.wav	here is the word groves the word groves is often mispronounced	True
+kris taylor	generated/kitten/kris taylor.wav	here is the word chris taylor the word chris taylor is often mispronounced	False
+missus hazelton	generated/kitten/missus hazelton.wav	here is the word missus hazelton the word missus hazelton is often mispronounced	True
+sybal	generated/kitten/sybal.wav	here is the word sibel the word sibel is often mispronounced	False
+nieaner	generated/kitten/nieaner.wav	here is the word neener the word neener is often mispronounced	False
+sidney	generated/kitten/sidney.wav	here is the word sidney the word sidney is often mispronounced	True
+jane dimond	generated/kitten/jane dimond.wav	here is the word jane diamond the word jane diamond is often mispronounced	False
+one	generated/kitten/one.wav	here is the word one the word one is often mispronounced	True
