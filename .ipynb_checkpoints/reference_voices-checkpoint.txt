@@ -1,0 +1,8 @@
+/training-1/tts/hui_clean/Bernd_Ungerer/fruehen_kraenze/wavs/fruehen_kraenze_16_f000008.wav|Die in den Nebel träumend versinken Wie in das Meer ihrer Traurigkeit.|bernd_ungerer|de
+/training-1/tts/hui_clean/Eva_K/balladen/wavs/balladen_31_f000006.wav|Dann bist Du verwunschen, Du armer Schneck, Denk doch einmal! Herz weg, Verstand weg, Erinnerung weg, Alles aufs mal.|eva_k|de
+/training-1/tts/hui_clean/Hokuspokus/deutsche_literaturgeschichte/wavs/deutsche_literaturgeschichte_03_f000007.wav|Ihnen waren Tier und Blume, Berg und Teich wie Bruder und Schwester vertraut.|hokuspokus|de
+/training-1/tts/hui_clean/Karlsson/ber_psychoanalyse/wavs/ber_psychoanalyse_01_f000037.wav|Sie halten dann das Leben für nicht bedroht und eine selbst vollkommene Herstellung der Gesundheit für wahrscheinlich.|karlsson|de
+/training-1/tts/hui_clean/Friedrich/aus_allen_winkeln/wavs/aus_allen_winkeln_01_f000002.wav|In einer der besten Gegenden der Stadt lag der Besitz des Großkaufmanns Cornelius.|friedrich|de
+/training-1/tts/vctk/wav48_silence_trimmed/p225/p225_001_mic1.wav|Please call Stella.|p225|en
+/training-1/tts/vctk/wav48_silence_trimmed/p226/p226_001_mic1.wav|Please call Stella.|p226|en
+/training-1/tts/vctk/wav48_silence_trimmed/p227/p227_001_mic1.wav|Please call Stella.|p227|en
